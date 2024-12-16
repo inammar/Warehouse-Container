@@ -6,7 +6,7 @@ All data about boxes are stored in txt file (I used Notepad): material type, len
 
 The program writes data of boxes into the table.
 
-The program finds the box with max weight, calculates the shelves height.
+The program finds the box with max weight, calculates the shelf height.
 
 The program filters boxes with particular material type to the separate list and sorts this list according to the max weight of the box.
 
