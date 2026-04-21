@@ -62,24 +62,24 @@ Validates that all results are correctly displayed in the console
 
 Confirms consistency between input data and output results
 
-🧪 Example Test Scenarios
+### 🧪 Example Test Scenarios
 
-Validate correct parsing of box data from input file
+1. Validate correct parsing of box data from input file
 
-Verify maximum weight box is correctly identified
+2. Verify maximum weight box is correctly identified
 
-Check if shelf height calculation is accurate
+3. Check if shelf height calculation is accurate
 
-Test filtering by different material types
+4. Test filtering by different material types
 
-Confirm sorting order is correct
+5. Confirm sorting order is correct
 
-🖥 Output
+### 🖥 Output
 
 All test results and processed data are displayed in the console, allowing easy verification of:
 
-Full dataset
+- Full dataset
 
-Filtered results
+- Filtered results
 
-Calculated values
+- Calculated values
