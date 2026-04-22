@@ -14,11 +14,11 @@ The goal of this project is to simulate real-world data validation and analysis 
 
 ### 🛠 Tech Stack
 
-C#
+- C#
 
-.NET Console Application
+- .NET Console Application
 
-Visual Studio
+- Visual Studio
 
 ### 📂 Test Data
 
@@ -36,31 +36,31 @@ Test data is stored in a .txt file and represents warehouse box records with the
 
 ✅ Data Validation
 
-Verifies that input data is correctly read and parsed from file
+1. Verifies that input data is correctly read and parsed from file
 
-Ensures all required fields are present and properly formatted
+2. Ensures all required fields are present and properly formatted
 
 ✅ Functional Testing
 
-Confirms correct identification of the box with the maximum weight capacity
+1. Confirms correct identification of the box with the maximum weight capacity
 
-Validates shelf height calculation logic based on box dimensions
+2. Validates shelf height calculation logic based on box dimensions
 
-Ensures correct handling of stacking constraints
+3. Ensures correct handling of stacking constraints
 
 ✅ Filtering & Sorting Logic
 
-Tests filtering of boxes by material type
+1. Tests filtering of boxes by material type
 
-Verifies sorting by maximum weight capacity
+2. Verifies sorting by maximum weight capacity
 
-Ensures filtered results are accurate and complete
+3. Ensures filtered results are accurate and complete
 
 ✅ Output Verification
 
-Validates that all results are correctly displayed in the console
+1. Validates that all results are correctly displayed in the console
 
-Confirms consistency between input data and output results
+2. Confirms consistency between input data and output results
 
 ### 🧪 Example Test Scenarios
 
