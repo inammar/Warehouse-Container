@@ -6,11 +6,11 @@ This project is a C# console application developed in Visual Studio, focused on 
 
 The goal of this project is to simulate real-world data validation and analysis scenarios by:
 
-Verifying correctness of input data
+- Verifying correctness of input data
 
-Testing business logic related to box properties
+- Testing business logic related to box properties
 
-Validating calculations and filtering behavior
+- Validating calculations and filtering behavior
 
 ### 🛠 Tech Stack
 
