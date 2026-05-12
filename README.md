@@ -1,8 +1,8 @@
-## 🧪 Warehouse Box Analysis – QA-Oriented Project (C#)
+## Warehouse Box Analysis – QA-Oriented Project (C#)
 
 This project is a C# console application developed in Visual Studio, focused on testing and validating warehouse box data processing logic.
 
-### 🎯 Project Goal
+### Project Goal
 
 The goal of this project is to simulate real-world data validation and analysis scenarios by:
 
@@ -12,7 +12,7 @@ The goal of this project is to simulate real-world data validation and analysis 
 
 - Validating calculations and filtering behavior
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - C#
 
@@ -20,7 +20,7 @@ The goal of this project is to simulate real-world data validation and analysis 
 
 - Visual Studio
 
-### 📂 Test Data
+### Test Data
 
 Test data is stored in a .txt file and represents warehouse box records with the following attributes:
 
@@ -32,7 +32,7 @@ Test data is stored in a .txt file and represents warehouse box records with the
 
 - Maximum stacking limit
 
-### 🔍 QA Focus Areas
+### QA Focus Areas
 
 ✅ Data Validation
 
@@ -62,7 +62,7 @@ Test data is stored in a .txt file and represents warehouse box records with the
 
 2. Confirms consistency between input data and output results
 
-### 🧪 Example Test Scenarios
+### Example Test Scenarios
 
 1. Validate correct parsing of box data from input file
 
@@ -74,7 +74,7 @@ Test data is stored in a .txt file and represents warehouse box records with the
 
 5. Confirm sorting order is correct
 
-### 🖥 Output
+### Output
 
 All test results and processed data are displayed in the console, allowing easy verification of:
 
